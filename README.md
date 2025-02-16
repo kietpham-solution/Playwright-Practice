@@ -6,3 +6,4 @@ The original repo is here: https://github.com/akveo/ngx-admin
 
 ### Playwright useful commands:
 - init playwright: `npm init playwright@latest --force`
+- run in UI mode: `npx playwright test --project=chromium --ui`
